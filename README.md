@@ -21,3 +21,6 @@
 <p>If you have any questions or suggestions regarding the company profile website, please contact us at hilmifauzi06@gmail.com.</p>
 
 <p>We appreciate your interest in our company profile website and look forward to your contributions!</p>
+
+<h1>Result</h1>
+<a href="https://hilmifauzi.site/">Dharma Wanita Persatuan Kementerian Luar Negeri</a>
