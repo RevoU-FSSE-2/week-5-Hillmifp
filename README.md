@@ -4,12 +4,12 @@
 
 <h1>Sections</h1>
 <img src:"img/home.png">
-<p>1. Home: The homepage serves as an introduction to the company, featuring a brief overview, highlights, and a visually appealing layout that captures the essence of the company.</p>
+<p>1. Home: The homepage serves as an introduction to the company</p>
 
-<p>2. About Us / Company History: This section provides a comprehensive history of the company, including its establishment, major milestones, and key achievements. It highlights the company's growth, development, and important events that have shaped its identity.</p>
+<p>2. About Us / Company History: This section provides a comprehensive history of the company. It highlights the company's growth, development, and important events that have shaped its identity.</p>
 
 <p>3. Vision and Mission: This section outlines the company's vision, which represents its long-term aspirations and goals. It also includes the mission statement, which describes the purpose and core values that guide the company's operations.</p>
 
-<p>4. Company Management: This section provides information about the key members of the company's management team. It includes profiles or biographies of executives, board members, and other key personnel. Each profile may include a photo, name, position, and a summary of their professional background and responsibilities.</p>
+<p>4. Company Management: This section provides information about the key members of the company's management team.</p>
 
 <p>5. Activity Articles: This section features news articles, blog posts, or updates about the company's recent activities, achievements, projects, or events. It provides insights into the company's current endeavors and showcases its expertise, innovation, and contributions to the industry.</p>
