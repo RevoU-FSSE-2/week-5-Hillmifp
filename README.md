@@ -3,13 +3,13 @@
 <p>This documentation provides an overview of the structure and content sections typically found in a company profile website. It includes sections for the company's history, vision and mission, company management, and activity articles. </p>
 
 <h1>Sections</h1>
-<img src:"img/home.png">
+<img src="img/home.png">
 <p>1. Home: The homepage serves as an introduction to the company</p>
-
+<img src="img/sejarah.png">
 <p>2. About Us / Company History: This section provides a comprehensive history of the company. It highlights the company's growth, development, and important events that have shaped its identity.</p>
-
+<img src="img/visi-misi.png">
 <p>3. Vision and Mission: This section outlines the company's vision, which represents its long-term aspirations and goals. It also includes the mission statement, which describes the purpose and core values that guide the company's operations.</p>
-
+<img src="img/susunan-pengurus.png">
 <p>4. Company Management: This section provides information about the key members of the company's management team.</p>
-
+<img src="img/artikel-kegiatan.png">
 <p>5. Activity Articles: This section features news articles, blog posts, or updates about the company's recent activities, achievements, projects, or events. It provides insights into the company's current endeavors and showcases its expertise, innovation, and contributions to the industry.</p>
