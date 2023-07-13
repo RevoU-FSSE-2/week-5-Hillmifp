@@ -13,3 +13,11 @@
 <p>4. Company Management: This section provides information about the key members of the company's management team.</p>
 <img src="img/artikel-kegiatan.png">
 <p>5. Activity Articles: This section features news articles, blog posts, or updates about the company's recent activities, achievements, projects, or events. It provides insights into the company's current endeavors and showcases its expertise, innovation, and contributions to the industry.</p>
+
+<h1>License</h1>
+<p>This project is licensed under the MIT License.</p>
+
+<h1>Contact</h1>
+<p>If you have any questions or suggestions regarding the company profile website, please contact us at hilmifauzi06@gmail.com.</p>
+
+<p>We appreciate your interest in our company profile website and look forward to your contributions!</p>
